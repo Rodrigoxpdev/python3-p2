@@ -1,0 +1,60 @@
+n1 = int(input('digite um valor '))
+
+i = n1
+a = n1-1
+s = n1+1
+
+print('\nO numero inteiro é {} \no antecessor é {} \ne o sucessor é {} '.format(i, a ,s), '\n O desafio foi concluido você pode avançar para proxima aula de python s2..')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
