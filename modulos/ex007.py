@@ -1,8 +1,7 @@
 #SEPARANDO DIGITOS DE UM NUMERO
 num =  int(input('informe um numero: '))
 
-n = str(num)
-
+n = str(num) #CONVERTENDO NUMERO PARA STRING
 u = num // 1 % 10  #UNIDADE
 d = num // 10 % 10 #DEZENA
 c = num // 100 % 10 #CENTENA
