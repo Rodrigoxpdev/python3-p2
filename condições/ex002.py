@@ -1,6 +1,5 @@
 
 nome = str(input('qual seu nome? '))
-nome.lower(nome = 'rodrigo')#COLOCANDO O NOME PARA MINUSCULO
 
 if nome == 'Rodrigo':
     print('que nome lindo você tem!')
